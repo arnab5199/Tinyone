@@ -1,0 +1,212 @@
+/*START*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 990px;
+    margin: 0 auto;
+}
+.over{
+    overflow: hidden;
+}
+/*Header Start*/
+.heads{
+    background: #fcdb00;
+    padding-bottom: 30px;
+}
+.fingermenu{
+    margin-top: 30px;
+}
+.finger{
+    float: left;
+    width: 50%;
+}
+.finger img{
+    height: 30px;
+}
+.finger h1 {
+	float: right;
+	font-size: 25px;
+	position: relative;
+	left: -377px;
+}
+.menu{
+    float: left;
+    width: 50%;
+}
+.menu ul li {
+	display: inline-block;
+	text-transform: capitalize;
+	font-size: 17px;
+	padding: 7px 17px;
+	position: relative;
+	right: -210px;
+}
+.headipad{
+    padding-top: 70px;
+}
+.head{
+    float: left;
+    width: 50%;
+    padding-top: 40px;
+}
+.head h1 {
+	padding-bottom: 12px;
+	font-size: 30px;
+}
+.head h2{
+    padding-bottom: 12px;
+    font-size: 18px;
+    width: 57%;
+}
+.head p{
+    font-size: 14px;
+    padding-bottom: 15px;
+    width: 70%;
+}
+.head i {
+	font-size: 27px;
+	padding-right: 22px;
+}
+.ipad{
+    float: left;
+    width: 50%;
+}
+.ipad img {
+	height: 290px;
+	position: relative;
+	right: -220px;
+}
+/*Header End*/
+/*Section Start*/
+.sec{
+    padding-bottom: 40px;
+}
+.show {
+    margin-top: 50px;
+}
+.show h1{
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: 27px;
+}
+.show p{
+    text-align: center;
+    font-size: 15px;
+}
+.box{
+    padding-top: 55px;
+}
+.box2{
+    float: left;
+    width: 33.33%;
+}
+.box3{
+    overflow: hidden;
+}
+.boxicon{
+    float: left;
+    width: 30%;
+}
+.boxicon i{
+    font-size: 30px;
+}
+.boxcont {
+	float: left;
+	width: 70%;
+	position: relative;
+    left: -50px;
+    padding-bottom: 30px;
+}
+.boxcont h1{
+    font-size: 17px;
+    padding-bottom: 15px;
+}
+.boxcont p{
+    font-size: 11px;
+    width: 65%;
+}
+/*Section Stop*/
+/*Footer Start*/
+.foots{
+    padding-bottom: 40px;
+    background: #010101;
+}
+.foot{
+    margin-top: 30px;
+}
+.foot h1{
+    text-align: center;
+    color: #fcdb00;
+    font-size: 27px;
+    padding-bottom: 14px;
+}
+.foot p {
+	text-align: center;
+	color: #898989;
+	font-size: 15px;
+	width: 57%;
+	position: relative;
+	left: 200px;
+}
+.inpt{
+    padding-top: 22px;
+    text-align: center;
+}
+.src {
+	border: none;
+	padding: 11px 105px;
+	position: relative;
+	left: -17px;
+    border-radius: 5px;
+}
+.button {
+	background: #fcdb00;
+	border: none;
+	padding: 11px 25px;
+	font-weight: bolder;
+	border-radius: 5px;
+}
+.icn{
+    padding-top: 40px;
+    text-align: center;
+}
+.icn i {
+	background: #fcdb00;
+	padding: 8px 9px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.address{
+    padding-top: 60px;
+}
+.addrs{
+    float: left;
+    width: 20%;
+}
+.addrs address{
+    font-size: 11px;
+    color: #ffffff;
+}
+/*Footer Stop*/
+/*Over-Design Start*/
+.ovrdgn{
+    background: linear-gradient(45deg, #fcdb00,#ffffff,#010101);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    overflow: hidden;
+}
+.ovrdgn p{
+    font-size: 15px;
+    color: #999999;
+    margin-left: 20px;
+}
+.ovrdgn p span {
+	display: inline-block;
+	position: absolute;
+    right: 228px;
+    color: black;
+}
+/*Over-Design Stop*/
+/*END*/
